@@ -27,8 +27,8 @@
 			<dom>
 				<bundle>
 					<event>load</event>
-					<action>loadMenus()</action>
-					<selector>#menu</selector>
+					<action>loadCanvaBadges()</action>
+					<selector>body</selector>
 				</bundle>
 			</dom>
 		</canvas>
