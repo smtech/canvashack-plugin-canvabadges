@@ -20,7 +20,7 @@
 				<include>
 					<page>
 						<type>regex</type>
-						<pattern>/.*/</pattern>
+						<pattern>%/profile%</pattern>
 					</page>
 				</include>
 			</pages>
