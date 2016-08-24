@@ -1,0 +1,18 @@
+{
+    "name": "canvashack/plugin-canvabadges",
+    "description": "Install the CanvaBadges snippet to allow users to share their badges on their user profile",
+    "authors": [
+        {
+            "name": "Brian Whitmer",
+            "url": "https://twitter.com/whitmer",
+            "role": "CanvaBadges Author"
+        },
+        {
+            "name": "Seth Battis",
+            "email": "sethbattis@stmarksschool.org",
+            "role": "CanvasHack Plugin"
+        }
+    ],
+    "type": "canvashack-plugin",
+    "require": {}
+}
