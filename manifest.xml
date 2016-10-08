@@ -20,7 +20,7 @@
 				<include>
 					<page>
 						<type>regex</type>
-						<pattern>/.*/</pattern>
+						<pattern>/.*\/(users|about)\/(\d+)$/</pattern>
 					</page>
 				</include>
 			</pages>
